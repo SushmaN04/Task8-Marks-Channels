@@ -1,4 +1,4 @@
-Year, Country, GDP (USD), Population, Internet Users (%), Mobile Subscriptions, Mobile Subscriptions per 100 inhabitants, Broadband Subscriptions
+Year,Country,GDP (USD),Population,Internet Users (%),Mobile Subscriptions,Mobile Subscriptions per 100 inhabitants,Broadband Subscriptions
 2000, USA, 10284, 282162411, 124.57, 109460000, 38.8, 60000000
 2001, USA, 10577, 284968955, 148.63, 128500000, 45.1, 70000000
 2002, USA, 10934, 287625193, 169.52, 141800000, 49.3, 80000000
